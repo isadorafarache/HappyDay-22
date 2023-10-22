@@ -1,2 +1,1 @@
-
-Desenvolvi este site como um presente comemorativo para celebrar meu relacionamento.
+Site desenvolvido como um presente comemorativo para celebrar um dia especial.
